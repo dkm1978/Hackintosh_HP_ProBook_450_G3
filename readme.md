@@ -9,3 +9,6 @@ LAN network card...works.<br>
 Camera...works.<br>
 Battery status...works.<br>
 Bluetooth...works.<br>
+
+![Ventura.png](https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Ventura.png)
+![Sequoia.png](https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Sequoia.png)
