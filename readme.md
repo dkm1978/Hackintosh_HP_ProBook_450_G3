@@ -1,4 +1,6 @@
+<p align="center">
 ![Hackintosh.jpg](https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Hackintosh.jpg)
+<p>
 ### "EFI_Ventura.zip" for HP ProBook 450 G3 tuned for Ventura 13.7.8<br>"EFI_Sequoia.zip" for HP ProBook 450 G3 tuned for Sequoia 15.7<br>
 
 All peripherals appear to be working.<br>
@@ -10,6 +12,7 @@ LAN network card...works.<br>
 Camera...works.<br>
 Battery status...works.<br>
 Bluetooth...works.<br>
-
+<p align="center">
 ![Ventura.png](https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Ventura.png)
 ![Sequoia.png](https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Sequoia.png)
+</p>
