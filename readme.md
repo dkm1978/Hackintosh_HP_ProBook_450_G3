@@ -1,4 +1,4 @@
-# "EFI_Ventura.zip" EFI for HP ProBook 450 G3 tunned for Ventura 13.7.8<br>
+# "EFI_Ventura.zip" for HP ProBook 450 G3 tunned for Ventura 13.7.8<br>
 
 All peripherals seem to be working.<br>
 Audio output and input...working.<br>
