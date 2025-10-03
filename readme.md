@@ -7,7 +7,7 @@
 <li>Audio output and input...works.<br></li>
 <li>Memory card reader...works.<br></li>
 <li>Fn key control functions...works.<br></li>
-<li>Wi-Fi network card...works, **but the Sequoia requires a Heliport for Wi-Fi management**.<br></li>
+<li>Wi-Fi network card...works, <b>but the Sequoia requires a Heliport for Wi-Fi management.</b><br></li>
 <li>LAN network card...works.<br></li>
 <li>Camera...works.<br></li>
 <li>Battery status...works.<br></li>
