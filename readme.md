@@ -1,5 +1,5 @@
-# "EFI_Ventura.zip" for HP ProBook 450 G3 tuned for Ventura 13.7.8<br>
-# "EFI_Sequoia.zip" for HP ProBook 450 G3 tuned for Sequoia 15.7<br>
+### "EFI_Ventura.zip" for HP ProBook 450 G3 tuned for Ventura 13.7.8<br>
+### "EFI_Sequoia.zip" for HP ProBook 450 G3 tuned for Sequoia 15.7<br>
 
 All peripherals appear to be working.<br>
 Audio output and input...works.<br>
