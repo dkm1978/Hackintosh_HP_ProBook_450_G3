@@ -17,3 +17,7 @@
 <img src=https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Ventura.png/>
 <img src=https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Sequoia.png/>
 </p>
+<p align="center">
+<small>
+Remember, you do everything at your own risk. I am not responsible for any resulting damage or data loss. I do not assist in installing macOS. Under the Apple Inc. license, macOS may only be installed on Apple devices. This repository is based on the work of the Hackintosh community.</small>
+</p>
