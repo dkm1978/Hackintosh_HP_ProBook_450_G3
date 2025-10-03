@@ -19,5 +19,5 @@
 </p>
 <p align="center">
 <small>
-Remember, you do everything at your own risk. I am not responsible for any resulting damage or data loss. I do not assist in installing macOS. Under the Apple Inc. license, macOS may only be installed on Apple devices. This repository is based on the work of the Hackintosh community.</small>
+Remember, you do everything at your own risk. I am not responsible for any resulting damage or data loss. I do not assist in installing macOS. Under the <a href="https://www.apple.com/">Apple Inc</a>. license, macOS may only be installed on Apple devices. This repository is based on the work of the Hackintosh community.</small>
 </p>
