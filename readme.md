@@ -1,8 +1,8 @@
 <p align="center">
- 
+<center>
 <img src="https://github.com/dkm1978/7inch-ESP32-aka-ESP32-8048S070/blob/main/baner_szeroki.jpg"><br>
-<img align="center" src=https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Hackintosh.jpg/>
-  
+<img src=https://github.com/dkm1978/Hackintosh_HP_ProBook_450_G3/blob/main/Hackintosh.jpg/>
+</center> 
  "EFI_Ventura.7z" for HP ProBook 450 G3 tuned for Ventura 13.7.8<br>"EFI_Sequoia.7z" for HP ProBook 450 G3 tuned for Sequoia 15.7<br></p>
 <ul>
 <li>All peripherals appear to be working.<br></li>
